@@ -42,6 +42,7 @@ while True:
 
 s.close()
 ```
+
 ## CLIENT.PY
 ```
 import socket
